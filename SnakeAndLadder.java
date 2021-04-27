@@ -1,4 +1,4 @@
-ackage SnakeAndLadder;
+package SnakeAndLadder;
 
 public class SnakeAndLadder {
 
